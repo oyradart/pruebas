@@ -1,0 +1,4 @@
+soy un archivo
++$n+
+segunda cadena
+tercera cadena
